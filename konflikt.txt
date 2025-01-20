@@ -1,1 +1,2 @@
 ovo želim da bude konflikt
+ovo je file u kojem zelim imat konflikte
